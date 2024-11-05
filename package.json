@@ -1,0 +1,16 @@
+{
+  "name": "linkdinbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "play-sound": "^1.1.6",
+    "puppeteer": "^23.6.0"
+  }
+}
